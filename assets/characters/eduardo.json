@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				2,
+				270,
 				0
 			],
 			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "EduardoIdle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				-17,
-				24
+				269,
+				-23
 			],
 			"loop": false,
-			"anim": "singUP",
 			"fps": 24,
-			"name": "EduardoUp",
-			"indices": []
-		},
-		{
-			"offsets": [
-				18,
-				-19
-			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "EduardoDown",
-			"indices": []
-		},
-		{
-			"offsets": [
-				10,
-				-4
-			],
-			"loop": false,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "EduardoLeft",
-			"indices": []
+			"indices": [],
+			"name": "left"
 		},
 		{
 			"offsets": [
-				-11,
-				-3
+				269,
+				-95
 			],
 			"loop": false,
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "EduardoRight",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				270,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				270,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		}
 	],
+	"no_antialiasing": false,
 	"image": "characters/eduardo",
-	"scale": 1,
-	"sing_duration": 4,
-	"healthicon": "edd",
 	"position": [
-		-500,
+		-10,
+		20
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		235,
 		0
 	],
 	"camera_position": [
-		0,
-		0
+		-330,
+		-30
 	],
-	"flip_x": false,
-	"no_antialiasing": false,
-	"healthbar_colors": [
-		0,
-		53,
-		0
-	]
+	"sing_duration": 6.1,
+	"scale": 1.1
 }

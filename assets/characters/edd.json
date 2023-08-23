@@ -1,150 +1,89 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				2,
-				0
-			],
 			"loop": false,
+			"offsets": [
+				-60,
+				-220
+			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "EddIdle",
+			"name": "spongeboy",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-16,
-				24
-			],
 			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "EddUp",
-			"indices": []
-		},
-		{
 			"offsets": [
-				28,
-				-69
+				-60,
+				-220
 			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "EddDown",
-			"indices": []
-		},
-		{
-			"offsets": [
-				41,
-				-4
-			],
-			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "EddLeft",
+			"name": "spongeboy",
 			"indices": []
 		},
 		{
-			"offsets": [
-				9,
-				-3
-			],
 			"loop": false,
+			"offsets": [
+				-60,
+				-220
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spongeboy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-220
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spongeboy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-220
+			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "EddRight",
+			"name": "spongeboy",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-1,
-				-24
-			],
 			"loop": false,
-			"anim": "singRIGHT-alt",
-			"fps": 24,
-			"name": "EddSideRight",
-			"indices": []
-		},
-		{
 			"offsets": [
-				-30,
-				-27
+				-10,
+				-200
 			],
-			"loop": false,
-			"anim": "singDOWN-alt",
-			"fps": 24,
-			"name": "EddSideDown",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				15
-			],
-			"loop": false,
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "EddSideLeft",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-47,
-				24
-			],
-			"loop": false,
 			"anim": "singUP-alt",
 			"fps": 24,
-			"name": "EddSideUp",
+			"name": "laugh",
 			"indices": []
-		},
-		{
-			"offsets": [
-				2,
-				0
-			],
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			],
-			"fps": 24,
-			"anim": "idle-loop",
-			"loop": true,
-			"name": "EddIdle"
-		},
-		{
-			"offsets": [
-				-47,
-				24
-			],
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			]
 		}
 	],
+	"no_antialiasing": false,
 	"image": "characters/eddwitmore",
-	"scale": 1,
-	"sing_duration": 4,
-	"healthicon": "edd",
 	"position": [
-		0,
+		-10,
+		10
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		235,
 		0
 	],
 	"camera_position": [
-		0,
-		0
+		-30,
+		110
 	],
-	"flip_x": false,
-	"no_antialiasing": false,
-	"healthbar_colors": [
-		51,
-		173,
-		51
-	]
+	"sing_duration": 6.1,
+	"scale": 1.1
 }
