@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-50
+				-22,
+				-37
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
+				-5,
+				33
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -47,7 +47,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
+				-43,
 				-7
 			],
 			"anim": "singRIGHT",
@@ -80,8 +80,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-36,
-				27
+				-22,
+				34
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -100,32 +100,10 @@
 			"indices": []
 		},
 		{
-			"loop": false,
-			"offsets": [
-				-3,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				15,
-				18
-			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
-			"indices": []
-		},
-		{
 			"loop": true,
 			"offsets": [
-				-4,
-				0
+				-5,
+				3
 			],
 			"anim": "scared",
 			"fps": 24,
@@ -135,8 +113,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				11
+				9,
+				213
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -146,8 +124,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				37,
-				5
+				-1,
+				213
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -157,45 +135,12 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				69
+				-8,
+				243
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
 			"name": "BF Dead confirm",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-16
-			],
-			"anim": "dodge",
-			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				294,
-				267
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				-40
-			],
-			"anim": "pre-attack",
-			"fps": 24,
-			"name": "bf pre attack",
 			"indices": []
 		}
 	],
@@ -214,7 +159,7 @@
 	],
 	"camera_position": [
 		0,
-		0
+		-150
 	],
 	"sing_duration": 4,
 	"scale": 1
