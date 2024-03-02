@@ -1,266 +1,78 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				2,
-				0
-			],
 			"loop": false,
+			"offsets": [
+				7,
+				-160
+			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Parent Christmas Idle",
+			"name": "Sasuke Idle",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-47,
-				24
-			],
 			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Parent Up Note Dad",
-			"indices": []
-		},
-		{
 			"offsets": [
-				-31,
-				-29
+				150,
+				-432
 			],
-			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Parent Down Note Dad",
+			"name": "Sasuke Down",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-30,
-				16
-			],
 			"loop": false,
-			"anim": "singLEFT",
+			"offsets": [
+				55,
+				-120
+			],
+			"anim": "singUP",
 			"fps": 24,
-			"name": "Parent Left Note Dad",
+			"name": "Sasuke Up",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-1,
-				-23
-			],
 			"loop": false,
+			"offsets": [
+				4,
+				-527
+			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Parent Right Note Dad",
+			"name": "Sasuke Left",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-1,
-				-24
+				391,
+				-292
 			],
 			"loop": false,
-			"anim": "singRIGHT-alt",
 			"fps": 24,
-			"name": "Parent Right Note Mom",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				-27
-			],
-			"loop": false,
-			"anim": "singDOWN-alt",
-			"fps": 24,
-			"name": "Parent Down Note Mom",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-30,
-				15
-			],
-			"loop": false,
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "Parent Left Note Mom",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-47,
-				24
-			],
-			"loop": false,
-			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "Parent Up Note Mom",
-			"indices": []
-		},
-		{
-			"offsets": [
-				2,
-				0
-			],
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			],
-			"fps": 24,
-			"anim": "idle-loop",
-			"loop": true,
-			"name": "Parent Christmas Idle"
-		},
-		{
-			"offsets": [
-				-47,
-				24
-			],
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			],
-			"fps": 24,
-			"anim": "singUP-loop",
-			"loop": true,
-			"name": "Parent Up Note Dad"
-		},
-		{
-			"offsets": [
-				-30,
-				16
-			],
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"loop": true,
-			"name": "Parent Left Note Dad"
-		},
-		{
-			"offsets": [
-				-31,
-				-29
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singDOWN-loop",
-			"loop": true,
-			"name": "Parent Down Note Dad"
-		},
-		{
-			"offsets": [
-				-1,
-				-23
-			],
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"loop": true,
-			"name": "Parent Right Note Dad"
-		},
-		{
-			"offsets": [
-				-1,
-				-24
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singRIGHT-alt-loop",
-			"loop": true,
-			"name": "Parent Right Note Mom"
-		},
-		{
-			"offsets": [
-				-47,
-				24
-			],
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			],
-			"fps": 24,
-			"anim": "singUP-alt-loop",
-			"loop": true,
-			"name": "Parent Up Note Mom"
-		},
-		{
-			"offsets": [
-				-30,
-				15
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singLEFT-alt-loop",
-			"loop": true,
-			"name": "Parent Left Note Mom"
-		},
-		{
-			"offsets": [
-				-30,
-				-27
-			],
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"fps": 24,
-			"anim": "singDOWN-alt-loop",
-			"loop": true,
-			"name": "Parent Down Note Mom"
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sasuke Right"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/mom_dad_christmas_assets",
 	"position": [
-		-500,
-		0
+		700,
+		-70
 	],
 	"healthicon": "parents",
 	"flip_x": false,
 	"healthbar_colors": [
-		196,
-		94,
-		174
+		32,
+		56,
+		84
 	],
 	"camera_position": [
-		0,
-		0
+		-530,
+		60
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"sing_duration": 6.1,
+	"scale": 1.2
 }

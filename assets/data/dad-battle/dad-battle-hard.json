@@ -15928,12 +15928,12 @@
 				]
 			]
 		],
-		"gfVersion": "gf",
+		"gfVersion": "parents-christmas",
 		"uiType": "normal",
 		"sections": 0,
-		"needsVoices": true,
+		"needsVoices": false,
 		"stage": "stage",
 		"bpm": 190,
-		"gf": "gf"
+		"gf": "parents-christmas"
 	}
 }
