@@ -1,11 +1,18 @@
 {
 	"song": {
-		"speed": 3,
-		"stage": "brotherlybond",
-		"player1": "altsadmouse",
-		"player2": "bf-neo",
-		"player3": null,
+		"song": "Bopeebo",
+		"notes": [],
 		"events": [
+			[
+				59412.698412698395,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad"
+					]
+				]
+			],
 			[
 				87857.1428571429,
 				[
@@ -487,6 +494,16 @@
 				]
 			],
 			[
+				159190.47619047633,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pico"
+					]
+				]
+			],
+			[
 				166190.476190476,
 				[
 					[
@@ -827,13 +844,14 @@
 				]
 			]
 		],
-		"notes": [],
-		"splashSkin": null,
-		"validScore": false,
-		"gfVersion": "nogf",
 		"bpm": 105,
-		"arrowSkin": null,
 		"needsVoices": true,
-		"song": "Bopeebo"
+		"speed": 3,
+		"player1": "altsadmous",
+		"player2": "bf-neo",
+		"player3": null,
+		"gfVersion": "nogf",
+		"stage": "brotherlybond",
+		"validScore": false
 	}
 }

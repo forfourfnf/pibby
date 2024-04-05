@@ -62,7 +62,7 @@
 		-10,
 		20
 	],
-	"healthicon": "dad"
+	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
 		235,
