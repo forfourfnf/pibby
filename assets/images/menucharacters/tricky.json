@@ -1,0 +1,10 @@
+{
+	"idle_anim": "tricky week",
+	"image": "menu_tricky",
+	"position": [
+		210,
+		110
+	],
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

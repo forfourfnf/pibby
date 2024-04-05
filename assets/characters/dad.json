@@ -2,132 +2,152 @@
 	"animations": [
 		{
 			"offsets": [
-				50,
-				-442
+				-5,
+				26
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "N glitch down"
-		},
-		{
-			"offsets": [
-				-45,
-				1
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "N glitch Up"
-		},
-		{
-			"offsets": [
-				-26,
-				-129
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "N glitch right"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				91,
-				-62
-			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "N glitch left",
+			"name": "Dad Sing Note LEFT",
 			"indices": []
 		},
 		{
 			"offsets": [
-				7,
-				-253
+				-3,
+				-33
 			],
 			"loop": false,
+			"anim": "singDOWN",
 			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "naruto slash"
+			"name": "Dad Sing Note DOWN",
+			"indices": []
 		},
 		{
-			"loop": true,
 			"offsets": [
-				7,
-				-160
+				-6,
+				50
 			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				42,
+				10
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "N glitch idle",
+			"name": "Dad idle dance",
 			"indices": []
 		},
 		{
 			"offsets": [
-				49,
-				-439
+				0,
+				0
 			],
-			"indices": [],
+			"loop": true,
 			"fps": 24,
-			"anim": "singDOWN-alt",
-			"loop": false,
-			"name": "alt1"
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
 		},
 		{
 			"offsets": [
-				120,
-				-60
+				-9,
+				10
 			],
-			"indices": [],
+			"loop": true,
 			"fps": 24,
-			"anim": "singLEFT-alt",
-			"loop": false,
-			"name": "alt2"
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
 		},
 		{
 			"offsets": [
-				-26,
-				-132
+				0,
+				27
 			],
-			"indices": [],
+			"loop": true,
 			"fps": 24,
-			"anim": "singRIGHT-alt",
-			"loop": false,
-			"name": "alt3"
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
 		},
 		{
 			"offsets": [
-				-46,
-				1
+				-6,
+				50
 			],
-			"indices": [],
+			"loop": true,
 			"fps": 24,
-			"anim": "singUP-alt",
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
 			"loop": false,
-			"name": "alt4"
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/NEO/DADDY_DEAREST",
 	"position": [
-		-80,
+		60,
 		-40
 	],
 	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
+		49,
+		176,
+		209
+	],
+	"camera_position": [
 		0,
 		0
 	],
-	"camera_position": [
-		40,
-		10
-	],
 	"sing_duration": 6.1,
-	"scale": 1.3
+	"scale": 1
 }

@@ -1,0 +1,50 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "place",
+		"player1": "bf-pibby",
+		"player2": "finn",
+		"player3": null,
+		"events": [
+			[
+				35773.5849056604,
+				[
+					[
+						"Set Focus",
+						"dad",
+						"4"
+					]
+				]
+			],
+			[
+				36226.4150943396,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				37132.0754716981,
+				[
+					[
+						"Set Camera Speed",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 265,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "no hero remastered"
+	}
+}

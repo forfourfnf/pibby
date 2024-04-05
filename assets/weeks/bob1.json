@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"sunshine",
+			"bob",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"withered",
+			"angrybob",
+			[
+				175,
+				175,
+				215
+			]
+		],
+		[
+			"run",
+			"hellbob",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "bob",
+	"difficulties": "",
+	"weekCharacters": [
+		"bob",
+		"bf",
+		"gf"
+	],
+	"storyName": "bob",
+	"weekName": "bob1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "mfm1",
+	"startUnlocked": true
+}

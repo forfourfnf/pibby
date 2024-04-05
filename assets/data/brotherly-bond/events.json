@@ -1,0 +1,145 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "brotherlybond",
+		"player1": "bf-pibby",
+		"player2": "jake",
+		"player3": null,
+		"events": [
+			[
+				10971.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.010"
+					],
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				12342.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.010"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.010"
+					]
+				]
+			],
+			[
+				15085.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.010"
+					]
+				]
+			],
+			[
+				16457.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.010"
+					]
+				]
+			],
+			[
+				17828.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.010"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.010"
+					]
+				]
+			],
+			[
+				20571.4285714286,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				21942.8571428571,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				35485.7142857143,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				43542.8571428572,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				131657.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.010"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "finn",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "brotherly bond"
+	}
+}

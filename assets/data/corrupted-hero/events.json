@@ -1,0 +1,950 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "place",
+		"player1": "bf-pibby",
+		"player2": "finn",
+		"player3": null,
+		"events": [
+			[
+				2330.09708737864,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				7864.07766990291,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				9029.12621359223,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				10194.1747572816,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				17184.4660194175,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				18640.7766990291,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				20679.6116504854,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				26796.1165048544,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				27233.0097087379,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				27669.9029126214,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				30291.2621359223,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				30873.786407767,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				31165.0485436893,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				31456.3106796117,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				31601.9417475728,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				31747.572815534,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				32038.8349514563,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				33203.8834951457,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				33786.4077669903,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				34805.8252427185,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				34951.4563106796,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				35388.3495145631,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				35825.2427184466,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				36116.504854369,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				36699.0291262136,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				37864.0776699029,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				39611.6504854369,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				42451.4563106796,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				42815.5339805825,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				43106.7961165049,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				46893.2038834952,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				47330.0970873787,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				48058.2524271845,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				48349.5145631068,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				55266.9902912622,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				56359.2233009709,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				57815.5339805826,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				58106.7961165049,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				66262.1359223301,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				67572.8155339806,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				67581.9174757282,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				73252.4271844661,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				74271.8446601942,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				75873.786407767,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				76893.2038834952,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				95533.9805825243,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				97864.077669903,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				100194.174757282,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				102524.27184466,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				104854.368932039,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				107184.466019418,
+				[
+					[
+						"Blammed Lights",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				109514.563106796,
+				[
+					[
+						"Blammed Lights",
+						"7",
+						""
+					]
+				]
+			],
+			[
+				111844.660194175,
+				[
+					[
+						"Blammed Lights",
+						"7",
+						""
+					]
+				]
+			],
+			[
+				112864.077669903,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				114029.126213592,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				114174.757281553,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				115339.805825243,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				116504.854368932,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				116504.854368932,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				117669.902912621,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				117669.902912622,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				118834.951456311,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				121165.048543689,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				122330.097087379,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				123495.145631068,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				124660.194174757,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				125825.242718447,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				126116.504854369,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				126553.398058253,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				126990.291262136,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				128009.708737864,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				128155.339805825,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				129320.388349515,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				130485.436893204,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				131650.485436894,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				132524.27184466,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				132815.533980583,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				132822.815533981,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.030"
+					]
+				]
+			],
+			[
+				133252.427184466,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				133834.951456311,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				133980.582524272,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				134417.475728155,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				134708.737864078,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				135145.631067961,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				135582.524271845,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				136019.417475728,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				136310.679611651,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				136893.203883495,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				137184.466019418,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				137766.990291262,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				139660.194174757,
+				[
+					[
+						"Play Animation",
+						"finn slash",
+						"finn"
+					]
+				]
+			],
+			[
+				151456.310679612,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 206,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "corrupted hero"
+	}
+}

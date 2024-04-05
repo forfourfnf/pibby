@@ -1,0 +1,52 @@
+{
+	"storyName": "VS TRICKY",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"improbable-outset",
+			"trickymask",
+			[
+				0,
+				125,
+				0
+			]
+		],
+		[
+			"madness",
+			"tricky",
+			[
+				0,
+				75,
+				0
+			]
+		],
+		[
+			"hellclown",
+			"trickyhell",
+			[
+				125,
+				0,
+				0
+			]
+		],
+		[
+			"expurgation",
+			"trickyex",
+			[
+				75,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "tricky1"
+}

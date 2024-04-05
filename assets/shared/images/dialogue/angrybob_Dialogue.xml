@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angrybob_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<!--<SubTexture name="BOB0000" x="0" y="232" width="1280" height="444"/>
+	<SubTexture name="BOB0001" x="1280" y="232" width="1280" height="444"/>
+	<SubTexture name="BOB0002" x="2560" y="232" width="1280" height="444"/>
+	<SubTexture name="BOB0003" x="0" y="976" width="1280" height="444"/>
+	<SubTexture name="BOB0004" x="1280" y="976" width="1280" height="444"/>
+	<SubTexture name="BOB0005" x="2560" y="976" width="1280" height="444"/>
+	<SubTexture name="BOB0006" x="2560" y="976" width="1280" height="444"/>
+	<SubTexture name="BOB0007" x="2560" y="976" width="1280" height="444"/>
+	-->
+	<SubTexture name="BOB0000" x="2560" y="976" width="1280" height="444"/>
+</TextureAtlas>

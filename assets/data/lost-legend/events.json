@@ -1,0 +1,50 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "brotherlybond",
+		"player1": "bf-pibby",
+		"player2": "finn",
+		"player3": null,
+		"events": [
+			[
+				9142.85714285714,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				84357.1428571429,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102571.428571429,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 210,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "lost legend"
+	}
+}

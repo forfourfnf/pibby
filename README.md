@@ -1,17 +1,7 @@
-# Pibby Songs
+# Friday Music Battle: A Collection Of FNF Mods
 
-# https://forfourfnf.github.io/pibby/
+https://forfourfnf.github.io/pack/friday-music-battle/
 
-Bopeebo - Ready Or Not (Spongebob)
+# Credits
 
-Fresh - Sliced (Annoying Orange)
-
-Dad Battle - Nine Tails To Remember (Naruto)
-
-# Corrupted Tankman Songs
-
-Spookeez - Hgu
-
-South - Ugsn
-
-Monster - Rstess
+Random299Person and the rest for making this

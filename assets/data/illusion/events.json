@@ -1,0 +1,580 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "spooky",
+		"player1": "bf-christmas",
+		"player2": "monster",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					],
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				8916.66666666667,
+				[
+					[
+						"Set Narration Text",
+						"Why, hello there...",
+						""
+					]
+				]
+			],
+			[
+				10666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"Well, look at this!",
+						""
+					]
+				]
+			],
+			[
+				11666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"All the children in one place now!",
+						""
+					]
+				]
+			],
+			[
+				13333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Set Narration Text",
+						"Hope you mind if I upstage you!",
+						""
+					]
+				]
+			],
+			[
+				18666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"Thought I'd drop by",
+						""
+					]
+				]
+			],
+			[
+				22333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"To lay your careers to waste now!",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					]
+				]
+			],
+			[
+				26666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"Tear you apart,",
+						""
+					]
+				]
+			],
+			[
+				27583.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"Rip out your music's heart and rip out",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Set Narration Text",
+						"All your real hearts too!",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Set Narration Text",
+						"This world's grown so toothless and tame",
+						""
+					],
+					[
+						"Darken Stage",
+						"0",
+						"-0.5"
+					]
+				]
+			],
+			[
+				34333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"It's replacing the monster",
+						""
+					]
+				]
+			],
+			[
+				35833.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"That made an art of killing!",
+						""
+					]
+				]
+			],
+			[
+				37333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"They'll",
+						""
+					],
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"Set Narration Text",
+						"Know",
+						""
+					]
+				]
+			],
+			[
+				44666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"My",
+						""
+					]
+				]
+			],
+			[
+				45333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"Name",
+						""
+					]
+				]
+			],
+			[
+				46666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"When",
+						""
+					]
+				]
+			],
+			[
+				47333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"Their",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Set Narration Text",
+						"Heart",
+						""
+					]
+				]
+			],
+			[
+				49333.3333333334,
+				[
+					[
+						"Set Narration Text",
+						"Beats",
+						""
+					]
+				]
+			],
+			[
+				50666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"Stilling",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					],
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				54666.6666666667,
+				[
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				57333.3333333334,
+				[
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				58666.6666666667,
+				[
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				61333.3333333334,
+				[
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				62666.6666666667,
+				[
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Set Narration Text",
+						"What have you got,",
+						""
+					],
+					[
+						"Darken Stage",
+						"0",
+						"-0.5"
+					]
+				]
+			],
+			[
+				65000,
+				[
+					[
+						"Set Narration Text",
+						"Just a copule corny jumpscares?",
+						""
+					]
+				]
+			],
+			[
+				66666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					]
+				]
+			],
+			[
+				69333.3333333334,
+				[
+					[
+						"Set Narration Text",
+						"Screaming for a",
+						""
+					]
+				]
+			],
+			[
+				70666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"Second's no time!",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					]
+				]
+			],
+			[
+				74666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"Terror comes from knowing your",
+						""
+					]
+				]
+			],
+			[
+				75833.3333333334,
+				[
+					[
+						"Set Narration Text",
+						"Demise is waitin' for you everywhere!",
+						""
+					]
+				]
+			],
+			[
+				77333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Set Narration Text",
+						"But don't you worry,",
+						""
+					],
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				81166.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"Won't see your end coming when",
+						""
+					]
+				]
+			],
+			[
+				82666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"Your",
+						""
+					],
+					[
+						"Darken Stage",
+						"0",
+						"-2"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Set Narration Text",
+						"Eyes",
+						""
+					]
+				]
+			],
+			[
+				84666.6666666667,
+				[
+					[
+						"Set Narration Text",
+						"Are",
+						""
+					]
+				]
+			],
+			[
+				85333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"Mine",
+						""
+					]
+				]
+			],
+			[
+				87333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					]
+				]
+			],
+			[
+				88333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"See you soon little boyfriend...",
+						""
+					]
+				]
+			],
+			[
+				91000,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					],
+					[
+						"Opponent_Fade",
+						"2",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "illusion"
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "churchruv",
+		"player1": "bf",
+		"player2": "ruv",
+		"player3": null,
+		"events": [
+			[
+				13636.3636363636,
+				[
+					[
+						"Set Focus",
+						"dad",
+						"4"
+					]
+				]
+			],
+			[
+				14545.4545454545,
+				[
+					[
+						"Trail",
+						"dad",
+						"1"
+					]
+				]
+			],
+			[
+				16363.6363636364,
+				[
+					[
+						"Set Camera Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				21818.1818181818,
+				[
+					[
+						"Trail",
+						"dad",
+						"0"
+					],
+					[
+						"Trail",
+						"bf",
+						"1"
+					]
+				]
+			],
+			[
+				29090.9090909091,
+				[
+					[
+						"Trail",
+						"bf",
+						"0"
+					]
+				]
+			],
+			[
+				101818.181818182,
+				[
+					[
+						"Set Opponent Screen Shake",
+						"0",
+						""
+					],
+					[
+						"Darken Stage",
+						".5",
+						""
+					]
+				]
+			],
+			[
+				105454.545454546,
+				[
+					[
+						"Set Opponent Screen Shake",
+						"0.01",
+						""
+					],
+					[
+						"Darken Stage",
+						"0",
+						"0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 132,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Zavodila"
+	}
+}

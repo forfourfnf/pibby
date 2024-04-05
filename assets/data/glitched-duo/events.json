@@ -1,0 +1,90 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "brotherlybond",
+		"player1": "bf-pibby",
+		"player2": "jake",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				98742.857142857,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				120685.714285714,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				131657.142857143,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				142628.571428571,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "finn",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "glitched duo"
+	}
+}

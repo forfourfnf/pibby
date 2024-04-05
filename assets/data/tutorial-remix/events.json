@@ -1,0 +1,90 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				4800,
+				[
+					[
+						"Trail",
+						"dad",
+						"1"
+					]
+				]
+			],
+			[
+				9150,
+				[
+					[
+						"Hey!",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Trail",
+						"dad",
+						"0"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Trail",
+						"dad",
+						"1"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Trail",
+						"dad",
+						"0"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Trail",
+						"bf",
+						"1"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Trail",
+						"bf",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Tutorial-Remix"
+	}
+}

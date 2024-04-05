@@ -1,0 +1,235 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "alley",
+		"player1": "gflullaby",
+		"player2": "hypno-two",
+		"player3": null,
+		"events": [
+			[
+				9600,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				106200,
+				[
+					[
+						"Camera Effect",
+						"break",
+						"1"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"Camera Effect",
+						"break",
+						"0"
+					],
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Psyshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				170400,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				170700,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171000,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171075,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171157.5,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171174.375,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171191.25,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171232.5,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171285,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171316.875,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171345,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171397.5,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171446.25,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171483.75,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171513.75,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171525,
+				[
+					[
+						"Fakeshock",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Left-Unchecked"
+	}
+}

@@ -1,0 +1,80 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "church_split",
+		"player1": "bf",
+		"player2": "sel",
+		"player3": null,
+		"events": [
+			[
+				-458.015267175572,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			],
+			[
+				14198.4732824428,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"0"
+					]
+				]
+			],
+			[
+				32977.0992366412,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						"0"
+					]
+				]
+			],
+			[
+				36183.2061068702,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				40305.3435114504,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						"0"
+					]
+				]
+			],
+			[
+				43511.4503816794,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 131,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Casanova"
+	}
+}

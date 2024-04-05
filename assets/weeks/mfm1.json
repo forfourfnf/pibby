@@ -1,0 +1,94 @@
+{
+	"storyName": "Mid-Fight Masses",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"weekBefore": "sm1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Parish",
+			"sarvente",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Worship",
+			"sarvente-dark",
+			[
+				195,
+				60,
+				131
+			]
+		],
+		[
+			"Zavodila",
+			"ruv",
+			[
+				200,
+				200,
+				220
+			]
+		],
+		[
+			"Gospel",
+			"sarvente-lucifer",
+			[
+				255,
+				80,
+				151
+			]
+		],
+		[
+			"demonila",
+			"selever",
+			[
+				175,
+				175,
+				175
+			]
+		],
+		[
+			"casanova",
+			"selever",
+			[
+				175,
+				175,
+				175
+			]
+		],
+		[
+			"attack",
+			"selever",
+			[
+				175,
+				175,
+				175
+			]
+		],
+		[
+			"attacklovania",
+			"selever",
+			[
+				175,
+				175,
+				175
+			]
+		]
+	],
+	"weekCharacters": [
+		"sickle",
+		"bf",
+		"gf"
+	],
+	"weekName": "mfm1"
+}

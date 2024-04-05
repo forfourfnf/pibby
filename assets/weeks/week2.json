@@ -1,49 +1,22 @@
 {
-	"storyName": "weekTank",
-	"difficulties": "Hard",
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekBefore": "week1",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"startUnlocked": true,
-	"hideStoryMode": false,
 	"songs": [
-		[
-			"Spookeez",
-			"tankman",
-			[
-				0,
-				0,
-				0
-			]
-		],
-		[
-			"South",
-			"tankman",
-			[
-				0,
-				0,
-				0
-			]
-		],
-		[
-			"Monster",
-			"tankman",
-			[
-				0,
-				0,
-				0
-			]
-		]
+		["Spookeez", "spooky", [34, 51, 68]],
+		["South", "spooky", [34, 51, 68]],
+		["Illusion", "monster", [34, 51, 68]]
 	],
+
 	"weekCharacters": [
 		"spooky",
 		"bf",
 		"gf"
 	],
-	"weekName": "Week 2"
+	"weekBackground": "halloween",
+
+	"storyName": "Spooky Month",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }

@@ -1,0 +1,335 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "place",
+		"player1": "bf-pibby",
+		"player2": "jake",
+		"player3": null,
+		"events": [
+			[
+				10666.6666666667,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				11333.3333333333,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				12666.6666666667,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				13333.3333333333,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				14000,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				14666.6666666667,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				15333.3333333333,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				16666.6666666667,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				17333.3333333333,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				18666.6666666667,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				19333.3333333333,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				20666.6666666667,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				30666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.075",
+						"0.015"
+					]
+				]
+			],
+			[
+				74666.6666666667,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"0"
+					]
+				]
+			],
+			[
+				109339.583333333,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					],
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				109666.666666667,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				110000,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				110333.333333333,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				110666.666666667,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				111333.333333333,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				111666.666666667,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
+				176000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				186666.666666667,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "elastic destruction"
+	}
+}

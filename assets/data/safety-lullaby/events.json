@@ -1,0 +1,40 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "alley",
+		"player1": "gflullaby",
+		"player2": "hypno",
+		"player3": null,
+		"events": [
+			[
+				51692.3076923077,
+				[
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				58961.5384615384,
+				[
+					[
+						"Darken Stage",
+						"0",
+						"-0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Safety Lullaby"
+	}
+}

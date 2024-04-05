@@ -1,0 +1,57 @@
+{
+	"storyName": "The Sights of Heck",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sadmouse",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Unhappy",
+			"sadmouse",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Happy",
+			"happymouse",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Really Happy",
+			"bipolarmouse",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"smile",
+			"altsadmouse",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"weekName": "Week Mouse"
+}
