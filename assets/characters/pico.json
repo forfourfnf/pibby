@@ -1,122 +1,78 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-20,
+				-180
 			],
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Pico Idle Dance"
+			"loop": false,
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				27,
-				1
+				22,
+				-177
 			],
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Pico Note Right0"
+			"loop": false,
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-38,
-				-7
+				15,
+				-177
 			],
-			"fps": 24,
-			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Pico NOTE LEFT0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-60,
-				41
-			],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Pico NOTE LEFT miss"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				62,
-				64
-			],
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "Pico Note Right Miss"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				27,
-				39
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "pico Up note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-22,
-				-86
-			],
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Pico Down Note0"
+			"loop": false,
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				210,
-				-28
+				7,
+				-177
 			],
-			"fps": 24,
-			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "Pico Down Note MISS"
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-19,
-				67
+				-32,
+				-180
 			],
-			"fps": 24,
-			"anim": "singUPmiss",
 			"indices": [],
-			"name": "pico Up note miss"
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/NEO/Pico_FNF_assetss",
 	"position": [
-		0,
-		300
-	],
-	"healthicon": "pico",
-	"flip_x": true,
-	"healthbar_colors": [
-		235,
-		95,
-		255
-	],
-	"camera_position": [
-		80,
+		-20,
 		0
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"healthicon": "dad"
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		235,
+		0
+	],
+	"camera_position": [
+		-30,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
 }

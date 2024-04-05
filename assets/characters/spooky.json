@@ -1,109 +1,78 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				59,
-				-20
-			],
 			"loop": false,
+			"offsets": [
+				270,
+				0
+			],
+			"anim": "idle",
 			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "spooky kids YEAH!!"
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				130,
-				-10
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				269,
+				-23
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "note sing left"
+			"fps": 24,
+			"name": "left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-130,
-				-14
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "spooky sing right"
-		},
-		{
 			"offsets": [
-				-50,
-				-130
+				269,
+				-95
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "spooky DOWN note"
+			"fps": 24,
+			"name": "down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": false,
-			"anim": "danceLeft",
-			"fps": 12,
-			"name": "spooky dance idle",
-			"indices": [
-				0,
-				2,
-				6
-			]
-		},
-		{
 			"offsets": [
-				0,
-				0
+				270,
+				13
 			],
-			"loop": false,
-			"anim": "danceRight",
-			"fps": 12,
-			"name": "spooky dance idle",
-			"indices": [
-				8,
-				10,
-				12,
-				14
-			]
-		},
-		{
-			"offsets": [
-				-20,
-				26
-			],
-			"loop": false,
 			"anim": "singUP",
 			"fps": 24,
-			"name": "spooky UP NOTE",
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/NEO/spooky_kids_assets",
 	"position": [
-		0,
-		200
+		-10,
+		20
 	],
-	"healthicon": "spooky",
+	"healthicon": "dad"
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		206,
-		255
-	],
-	"camera_position": [
-		0,
+		235,
+		235,
 		0
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"camera_position": [
+		-330,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
 }
