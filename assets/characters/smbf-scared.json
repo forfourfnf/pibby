@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-50
+				-22,
+				-37
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				-5,
+				33
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				-48,
+				-43,
 				-7
 			],
 			"loop": false,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-36,
-				27
+				-22,
+				34
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,30 +101,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				5
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				15,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
+				-5,
+				3
 			],
 			"loop": true,
 			"fps": 24,
@@ -134,8 +112,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				11
+				9,
+				213
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,8 +123,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				5
+				-9,
+				213
 			],
 			"loop": true,
 			"fps": 24,
@@ -156,47 +134,14 @@
 		},
 		{
 			"offsets": [
-				37,
-				69
+				-8,
+				243
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
 			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				-10,
-				-16
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
 		}
 	],
 	"no_antialiasing": false,
@@ -208,13 +153,13 @@
 	"healthicon": "smbf",
 	"flip_x": true,
 	"healthbar_colors": [
-		142,
-		142,
-		142
+		49,
+		176,
+		209
 	],
 	"camera_position": [
 		0,
-		0
+		-150
 	],
 	"sing_duration": 4,
 	"scale": 1

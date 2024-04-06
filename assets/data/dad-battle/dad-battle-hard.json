@@ -14371,6 +14371,26 @@
 				"bpm": 190,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 190,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 190,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"isHey": false,
@@ -15931,7 +15951,7 @@
 		"gfVersion": "nogf",
 		"uiType": "normal",
 		"sections": 0,
-		"needsVoices": true,
+		"needsVoices": false,
 		"stage": "brotherlybond",
 		"bpm": 190,
 		"gf": "nogf"
