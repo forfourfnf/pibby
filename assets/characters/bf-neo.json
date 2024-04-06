@@ -67,23 +67,23 @@
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
 	"image": "characters/bf-neo",
+	"scale": 1.1,
+	"sing_duration": 6.1,
+	"healthicon": "bf-neo",
 	"position": [
 		-10,
 		10
-	],
-	"healthicon": "bf-neo",
-	"flip_x": false,
-	"healthbar_colors": [
-		235,
-		235,
-		0
 	],
 	"camera_position": [
 		-30,
 		110
 	],
-	"sing_duration": 6.1,
-	"scale": 1.1
+	"flip_x": false,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		235,
+		235,
+		0
+	]
 }
