@@ -1,168 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="1sarvente.png">
-	<!-- Created with Adobe Animate version 18.0.1.115 -->
+<TextureAtlas imagePath="Naruto.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="SarventeDown0000" x="0" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0001" x="548" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0002" x="1096" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0003" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0004" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0005" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0006" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0007" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0008" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0009" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0010" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0011" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0012" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0013" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0014" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0015" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0016" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0017" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0018" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0019" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0020" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0021" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0022" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0023" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0024" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0025" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0026" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0027" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0028" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0029" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0030" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0031" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0032" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0033" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0034" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0035" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0036" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0037" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0038" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0039" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0040" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0041" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0042" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0043" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0044" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0045" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0046" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeDown0047" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarventeHey0000" x="2192" y="0" width="432" height="760"/>
-	<SubTexture name="SarventeHey0001" x="2192" y="0" width="432" height="760"/>
-	<SubTexture name="SarventeHey0002" x="2624" y="0" width="432" height="760"/>
-	<SubTexture name="SarventeHey0003" x="2624" y="0" width="432" height="760"/>
-	<SubTexture name="SarventeHey0004" x="2624" y="0" width="432" height="760"/>
-	<SubTexture name="SarventeIdle0000" x="3056" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0001" x="3056" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0002" x="3056" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0003" x="3056" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0004" x="3056" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0005" x="3056" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0006" x="3056" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0007" x="3056" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0008" x="3056" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0009" x="3511" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0010" x="3511" y="0" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0011" x="0" y="764" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0012" x="455" y="764" width="455" height="764"/>
-	<SubTexture name="SarventeIdle0013" x="910" y="764" width="455" height="764"/>
-	<SubTexture name="SarventeLeft0000" x="1365" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0001" x="1892" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0002" x="2419" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0003" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0004" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0005" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0006" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0007" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0008" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0009" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0010" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0011" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0012" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0013" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0014" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0015" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0016" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0017" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0018" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0019" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0020" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0021" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0022" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeLeft0023" x="2946" y="764" width="527" height="758"/>
-	<SubTexture name="SarventeRight0000" x="3473" y="764" width="511" height="758"/>
-	<SubTexture name="SarventeRight0001" x="0" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0002" x="511" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0003" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0004" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0005" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0006" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0007" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0008" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0009" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0010" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0011" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0012" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0013" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0014" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0015" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0016" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0017" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0018" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0019" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0020" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0021" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0022" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeRight0023" x="1022" y="1528" width="511" height="758"/>
-	<SubTexture name="SarventeUp0000" x="1533" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0001" x="2092" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0002" x="2651" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0003" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0004" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0005" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0006" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0007" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0008" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0009" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0010" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0011" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0012" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0013" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0014" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0015" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0016" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0017" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0018" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0019" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0020" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0021" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0022" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0023" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0024" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0025" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0026" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0027" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0028" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0029" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0030" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0031" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0032" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0033" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0034" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0035" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0036" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0037" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0038" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0039" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0040" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0041" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0042" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0043" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0044" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0045" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0046" x="3210" y="1528" width="559" height="757"/>
-	<SubTexture name="SarventeUp0047" x="3210" y="1528" width="559" height="757"/>
+	<SubTexture name="Naruto Down0000" x="0" y="0" width="481" height="374" frameX="-11" frameY="0" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0001" x="481" y="0" width="500" height="353" frameX="-1" frameY="-20" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0002" x="981" y="0" width="502" height="350" frameX="0" frameY="-29" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0003" x="1483" y="0" width="502" height="350" frameX="0" frameY="-29" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0004" x="1985" y="0" width="502" height="349" frameX="0" frameY="-29" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0005" x="2487" y="0" width="502" height="350" frameX="0" frameY="-28" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0006" x="2989" y="0" width="502" height="350" frameX="0" frameY="-28" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0007" x="3491" y="0" width="502" height="350" frameX="0" frameY="-28" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0008" x="0" y="374" width="502" height="350" frameX="0" frameY="-28" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0009" x="502" y="374" width="502" height="350" frameX="0" frameY="-28" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Down0010" x="1004" y="374" width="502" height="350" frameX="0" frameY="-28" frameWidth="502" frameHeight="379"/>
+	<SubTexture name="Naruto Idle0000" x="1506" y="374" width="438" height="533"/>
+	<SubTexture name="Naruto Idle0001" x="1944" y="374" width="438" height="533"/>
+	<SubTexture name="Naruto Idle0002" x="2382" y="374" width="438" height="530" frameX="0" frameY="-3" frameWidth="438" frameHeight="533"/>
+	<SubTexture name="Naruto Idle0003" x="2820" y="374" width="434" height="521" frameX="-3" frameY="-12" frameWidth="438" frameHeight="533"/>
+	<SubTexture name="Naruto Idle0004" x="3254" y="374" width="433" height="519" frameX="-4" frameY="-14" frameWidth="438" frameHeight="533"/>
+	<SubTexture name="Naruto Idle0005" x="0" y="907" width="433" height="518" frameX="-4" frameY="-15" frameWidth="438" frameHeight="533"/>
+	<SubTexture name="Naruto Idle0006" x="433" y="907" width="433" height="518" frameX="-4" frameY="-15" frameWidth="438" frameHeight="533"/>
+	<SubTexture name="Naruto Idle0007" x="866" y="907" width="434" height="520" frameX="-3" frameY="-13" frameWidth="438" frameHeight="533"/>
+	<SubTexture name="Naruto Idle0008" x="1300" y="907" width="438" height="530" frameX="0" frameY="-3" frameWidth="438" frameHeight="533"/>
+	<SubTexture name="Naruto Idle0009" x="1738" y="907" width="438" height="532" frameX="0" frameY="-1" frameWidth="438" frameHeight="533"/>
+	<SubTexture name="Naruto Idle0010" x="1506" y="374" width="438" height="533"/>
+	<SubTexture name="Naruto Left0000" x="2176" y="907" width="409" height="619" frameX="-37" frameY="-23" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0001" x="2585" y="907" width="383" height="630" frameX="-33" frameY="-12" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0002" x="2968" y="907" width="381" height="639" frameX="-9" frameY="-3" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0003" x="3349" y="907" width="379" height="642" frameX="0" frameY="0" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0004" x="0" y="1549" width="380" height="642" frameX="-1" frameY="0" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0005" x="380" y="1549" width="381" height="642" frameX="-4" frameY="0" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0006" x="761" y="1549" width="383" height="642" frameX="-7" frameY="0" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0007" x="1144" y="1549" width="384" height="642" frameX="-8" frameY="0" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0008" x="1528" y="1549" width="384" height="642" frameX="-9" frameY="0" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0009" x="1912" y="1549" width="384" height="642" frameX="-9" frameY="0" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Left0010" x="2296" y="1549" width="385" height="642" frameX="-9" frameY="0" frameWidth="446" frameHeight="642"/>
+	<SubTexture name="Naruto Right0000" x="2681" y="1549" width="426" height="398" frameX="0" frameY="-8" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0001" x="3107" y="1549" width="427" height="398" frameX="0" frameY="-8" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0002" x="3534" y="1549" width="429" height="405" frameX="0" frameY="-1" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0003" x="0" y="2191" width="429" height="406" frameX="0" frameY="0" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0004" x="429" y="2191" width="429" height="406" frameX="0" frameY="0" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0005" x="858" y="2191" width="430" height="406" frameX="0" frameY="0" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0006" x="1288" y="2191" width="431" height="405" frameX="0" frameY="-1" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0007" x="1719" y="2191" width="431" height="405" frameX="0" frameY="-1" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0008" x="2150" y="2191" width="432" height="405" frameX="0" frameY="-1" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0009" x="2582" y="2191" width="432" height="405" frameX="0" frameY="-1" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Right0010" x="3014" y="2191" width="432" height="405" frameX="0" frameY="-1" frameWidth="432" frameHeight="406"/>
+	<SubTexture name="Naruto Up0000" x="3446" y="2191" width="313" height="692" frameX="0" frameY="-15" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0001" x="3759" y="2191" width="303" height="707" frameX="-7" frameY="-1" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0002" x="0" y="2898" width="302" height="708" frameX="-8" frameY="0" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0003" x="302" y="2898" width="302" height="709" frameX="-8" frameY="0" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0004" x="604" y="2898" width="303" height="708" frameX="-7" frameY="-1" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0005" x="907" y="2898" width="305" height="703" frameX="-6" frameY="-5" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0006" x="1212" y="2898" width="308" height="698" frameX="-4" frameY="-10" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0007" x="1520" y="2898" width="310" height="695" frameX="-3" frameY="-13" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0008" x="1830" y="2898" width="310" height="693" frameX="-3" frameY="-15" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0009" x="2140" y="2898" width="312" height="692" frameX="-2" frameY="-16" frameWidth="314" frameHeight="709"/>
+	<SubTexture name="Naruto Up0010" x="2452" y="2898" width="312" height="692" frameX="-2" frameY="-16" frameWidth="314" frameHeight="709"/>
 </TextureAtlas>

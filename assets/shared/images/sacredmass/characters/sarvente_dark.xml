@@ -1,317 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="1sarventedark.png">
-	<!-- Created with Adobe Animate version 18.0.1.115 -->
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="N glitch.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="SarvDarkDown0000" x="0" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0001" x="548" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0002" x="1096" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0003" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0004" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0005" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0006" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0007" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0008" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0009" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0010" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0011" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0012" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0013" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0014" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0015" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0016" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0017" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0018" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0019" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0020" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0021" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0022" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0023" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0024" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0025" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0026" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0027" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0028" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0029" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0030" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0031" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0032" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0033" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0034" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0035" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0036" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0037" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0038" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0039" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0040" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0041" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0042" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0043" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0044" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0045" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0046" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkDown0047" x="1644" y="0" width="548" height="730"/>
-	<SubTexture name="SarvDarkAltDown0000" x="2192" y="0" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0001" x="2707" y="0" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0002" x="3222" y="0" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0003" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0004" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0005" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0007" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0008" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0009" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0011" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0012" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0013" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0014" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0015" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0016" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0017" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0018" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0019" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0020" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0021" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0022" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkAltDown0023" x="0" y="730" width="515" height="705"/>
-	<SubTexture name="SarvDarkIdle0000" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0001" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0002" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0003" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0004" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0005" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0006" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0007" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0008" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0009" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0010" x="515" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0011" x="971" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0012" x="971" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0013" x="1427" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0014" x="1883" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkIdle0015" x="2339" y="730" width="456" height="764"/>
-	<SubTexture name="SarvDarkLeft0000" x="2795" y="730" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0001" x="3313" y="730" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0002" x="0" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0003" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0004" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0005" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0006" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0007" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0008" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0009" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0010" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0011" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0012" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0013" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0014" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0015" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0016" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0017" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0018" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0019" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0020" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0021" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0022" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkLeft0023" x="518" y="1494" width="518" height="758"/>
-	<SubTexture name="SarvDarkAltLeft0000" x="1036" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0001" x="1540" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0002" x="2044" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0003" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0004" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0005" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0006" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0007" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0008" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0009" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0010" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0011" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0012" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0013" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0014" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0015" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0016" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0017" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0018" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0019" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0020" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0021" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0022" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkAltLeft0023" x="2548" y="1494" width="504" height="751"/>
-	<SubTexture name="SarvDarkRight0000" x="3052" y="1494" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0001" x="3570" y="1494" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0002" x="0" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0003" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0004" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0005" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0006" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0007" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0008" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0009" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0010" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0011" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0012" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0013" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0014" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0015" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0016" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0017" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0018" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0019" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0020" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0021" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0022" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkRight0023" x="518" y="2253" width="518" height="759"/>
-	<SubTexture name="SarvDarkAltRight0000" x="1036" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0001" x="1524" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0002" x="2012" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0003" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0004" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0005" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0006" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0007" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0008" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0009" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0010" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0011" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0012" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0013" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0014" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0015" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0016" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0017" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0018" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0019" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0020" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0021" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0022" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0023" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0024" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0025" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0026" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0027" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0028" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0029" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0030" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0031" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0032" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0033" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0034" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0035" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0036" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0037" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0038" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0039" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0040" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0041" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0042" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0043" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0044" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0045" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0046" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkAltRight0047" x="2500" y="2253" width="488" height="730"/>
-	<SubTexture name="SarvDarkUp0000" x="2988" y="2253" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0001" x="0" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0002" x="559" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0003" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0004" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0005" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0006" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0007" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0008" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0009" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0010" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0011" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0012" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0013" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0014" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0015" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0016" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0017" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0018" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0019" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0020" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0021" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0022" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0023" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0024" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0025" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0026" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0027" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0028" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0029" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0030" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0031" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0032" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0033" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0034" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0035" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0036" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0037" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0038" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0039" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0040" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0041" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0042" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0043" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0044" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0045" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0046" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkUp0047" x="1118" y="3012" width="559" height="757"/>
-	<SubTexture name="SarvDarkAltUp0000" x="1677" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0001" x="2215" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0002" x="2753" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0003" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0004" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0005" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0006" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0007" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0008" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0009" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0010" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0011" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0012" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0013" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0014" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0015" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0016" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0017" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0018" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0019" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0020" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0021" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0022" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0023" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0024" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0025" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0026" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0027" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0028" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0029" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0030" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0031" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0032" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0033" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0034" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0035" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0036" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0037" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0038" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0039" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0040" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0041" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0042" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0043" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0044" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0045" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0046" x="3291" y="3012" width="538" height="767"/>
-	<SubTexture name="SarvDarkAltUp0047" x="3291" y="3012" width="538" height="767"/>
-
-	<SubTexture name="TiredSarv0000" x="0" y="4096" width="458" height="760"/>
-	<SubTexture name="TiredSarv0001" x="0" y="4096" width="458" height="760"/>
-	<SubTexture name="TiredSarv0002" x="0" y="4096" width="458" height="760"/>
-	<SubTexture name="TiredSarv0003" x="458" y="4096" width="458" height="760"/>
-	<SubTexture name="TiredSarv0004" x="916" y="4096" width="458" height="760"/>
-	<SubTexture name="TiredSarv0005" x="1374" y="4096" width="458" height="760"/>
-	<SubTexture name="TiredSarv0006" x="0" y="4856" width="458" height="760"/>
-	<SubTexture name="TiredSarv0007" x="458" y="4856" width="458" height="760"/>
-
+	<SubTexture name="N glitch Up0000" x="0" y="0" width="629" height="456" frameX="0" frameY="-31" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0001" x="629" y="0" width="606" height="480" frameX="-4" frameY="-24" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0002" x="1235" y="0" width="573" height="485" frameX="-30" frameY="-14" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0003" x="1808" y="0" width="573" height="561" frameX="-33" frameY="-10" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0004" x="2381" y="0" width="575" height="629" frameX="-33" frameY="-7" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0005" x="2956" y="0" width="582" height="654" frameX="-31" frameY="-4" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0006" x="3538" y="0" width="590" height="655" frameX="-28" frameY="-3" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0007" x="4128" y="0" width="595" height="657" frameX="-27" frameY="0" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0008" x="4723" y="0" width="597" height="657" frameX="-26" frameY="0" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0009" x="5320" y="0" width="598" height="650" frameX="-26" frameY="-1" frameWidth="629" frameHeight="658"/>
+	<SubTexture name="N glitch Up0010" x="7010" y="2542" width="599" height="648" frameX="-25" frameY="-1" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="N glitch down0000" x="5918" y="0" width="535" height="408" frameX="-7" frameY="0" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="N glitch down0001" x="6453" y="0" width="535" height="394" frameX="-1" frameY="-21" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="N glitch down0002" x="6988" y="0" width="538" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="N glitch down0003" x="7526" y="0" width="539" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="N glitch down0004" x="6691" y="1300" width="535" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="N glitch down0005" x="7226" y="1300" width="521" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="N glitch down0006" x="0" y="1900" width="521" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="N glitch idle0000" x="0" y="657" width="462" height="570" frameX="-2" frameY="0" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0001" x="462" y="657" width="462" height="570" frameX="-2" frameY="0" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0002" x="924" y="657" width="464" height="568" frameX="-1" frameY="-2" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0003" x="1388" y="657" width="467" height="563" frameX="-1" frameY="-7" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0004" x="1855" y="657" width="469" height="562" frameX="0" frameY="-8" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0005" x="2324" y="657" width="469" height="561" frameX="0" frameY="-9" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0006" x="2793" y="657" width="469" height="562" frameX="0" frameY="-8" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0007" x="3262" y="657" width="467" height="563" frameX="-1" frameY="-7" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0008" x="3729" y="657" width="464" height="567" frameX="-1" frameY="-3" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0009" x="4193" y="657" width="463" height="569" frameX="-1" frameY="-1" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch idle0010" x="4656" y="657" width="462" height="570" frameX="-2" frameY="0" frameWidth="469" frameHeight="570"/>
+	<SubTexture name="N glitch left0000" x="5118" y="657" width="365" height="636" frameX="-32" frameY="-7" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0001" x="5483" y="657" width="325" height="643" frameX="-24" frameY="0" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0002" x="5808" y="657" width="280" height="638" frameX="-8" frameY="-5" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0003" x="6088" y="657" width="262" height="636" frameX="0" frameY="-7" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0004" x="6350" y="657" width="263" height="637" frameX="0" frameY="-6" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0005" x="6613" y="657" width="262" height="639" frameX="-4" frameY="-4" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0006" x="6875" y="657" width="262" height="641" frameX="-7" frameY="-2" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0007" x="7137" y="657" width="262" height="642" frameX="-8" frameY="-1" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0008" x="7399" y="657" width="262" height="642" frameX="-9" frameY="-1" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0009" x="7661" y="657" width="262" height="642" frameX="-9" frameY="-1" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch left0010" x="7923" y="657" width="263" height="642" frameX="-9" frameY="-1" frameWidth="397" frameHeight="643"/>
+	<SubTexture name="N glitch right0000" x="0" y="1300" width="499" height="600" frameX="-3" frameY="0" frameWidth="519" frameHeight="600"/>
+	<SubTexture name="N glitch right0001" x="499" y="1300" width="499" height="595" frameX="-2" frameY="-5" frameWidth="519" frameHeight="600"/>
+	<SubTexture name="N glitch right0002" x="998" y="1300" width="515" height="593" frameX="0" frameY="-7" frameWidth="519" frameHeight="600"/>
+	<SubTexture name="N glitch right0003" x="1513" y="1300" width="499" height="594" frameX="0" frameY="-6" frameWidth="519" frameHeight="600"/>
+	<SubTexture name="N glitch right0004" x="2012" y="1300" width="507" height="593" frameX="0" frameY="-7" frameWidth="519" frameHeight="600"/>
+	<SubTexture name="N glitch right0005" x="2519" y="1300" width="499" height="593" frameX="0" frameY="-7" frameWidth="519" frameHeight="600"/>
+	<SubTexture name="N glitch right0006" x="3018" y="1300" width="508" height="593" frameX="0" frameY="-7" frameWidth="519" frameHeight="600"/>
+	<SubTexture name="N glitch right0007" x="3526" y="1300" width="519" height="593" frameX="0" frameY="-7" frameWidth="519" frameHeight="600"/>
+	<SubTexture name="N glitch right0008" x="4045" y="1300" width="499" height="593" frameX="0" frameY="-7" frameWidth="519" frameHeight="600"/>
+	<SubTexture name="N glitch right0009" x="499" y="2542" width="499" height="593" frameX="0" frameY="-7" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt10000" x="4544" y="1300" width="535" height="408" frameX="-7" frameY="0" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="alt10001" x="5079" y="1300" width="535" height="394" frameX="-1" frameY="-21" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="alt10002" x="5614" y="1300" width="538" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="alt10003" x="6152" y="1300" width="539" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="alt10004" x="6691" y="1300" width="535" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="alt10005" x="7226" y="1300" width="521" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="alt10006" x="0" y="1900" width="521" height="392" frameX="0" frameY="-23" frameWidth="542" frameHeight="415"/>
+	<SubTexture name="alt20000" x="521" y="1900" width="368" height="610" frameX="-52" frameY="-32" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20001" x="889" y="1900" width="368" height="635" frameX="-4" frameY="-7" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20002" x="1257" y="1900" width="311" height="638" frameX="0" frameY="-4" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20003" x="1568" y="1900" width="262" height="636" frameX="-23" frameY="-6" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20004" x="1830" y="1900" width="265" height="637" frameX="-23" frameY="-5" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20005" x="2095" y="1900" width="312" height="640" frameX="-11" frameY="-2" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20006" x="2407" y="1900" width="272" height="641" frameX="-20" frameY="-1" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20007" x="2679" y="1900" width="262" height="642" frameX="-31" frameY="0" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20008" x="2941" y="1900" width="262" height="642" frameX="-32" frameY="0" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20009" x="3203" y="1900" width="262" height="642" frameX="-32" frameY="0" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt20010" x="3465" y="1900" width="263" height="642" frameX="-32" frameY="0" frameWidth="420" frameHeight="642"/>
+	<SubTexture name="alt30000" x="3728" y="1900" width="531" height="580" frameX="-3" frameY="-15" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt30001" x="4259" y="1900" width="499" height="595" frameX="-2" frameY="0" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt30002" x="4758" y="1900" width="515" height="593" frameX="0" frameY="-2" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt30003" x="5273" y="1900" width="503" height="594" frameX="0" frameY="-1" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt30004" x="5776" y="1900" width="507" height="593" frameX="0" frameY="-2" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt30005" x="6283" y="1900" width="499" height="593" frameX="0" frameY="-2" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt30006" x="6782" y="1900" width="508" height="593" frameX="0" frameY="-2" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt30007" x="7290" y="1900" width="533" height="593" frameX="0" frameY="-2" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt30008" x="0" y="2542" width="499" height="593" frameX="0" frameY="-2" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt30009" x="499" y="2542" width="499" height="593" frameX="0" frameY="-2" frameWidth="534" frameHeight="595"/>
+	<SubTexture name="alt40000" x="998" y="2542" width="662" height="456" frameX="-1" frameY="-31" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40001" x="1660" y="2542" width="608" height="480" frameX="-5" frameY="-24" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40002" x="2268" y="2542" width="604" height="485" frameX="0" frameY="-14" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40003" x="2872" y="2542" width="573" height="561" frameX="-34" frameY="-10" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40004" x="3445" y="2542" width="587" height="629" frameX="-22" frameY="-7" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40005" x="4032" y="2542" width="582" height="654" frameX="-32" frameY="-4" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40006" x="4614" y="2542" width="590" height="655" frameX="-29" frameY="-3" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40007" x="5204" y="2542" width="611" height="657" frameX="-12" frameY="0" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40008" x="5815" y="2542" width="597" height="657" frameX="-27" frameY="0" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40009" x="6412" y="2542" width="598" height="650" frameX="-27" frameY="-1" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="alt40010" x="7010" y="2542" width="599" height="648" frameX="-26" frameY="-1" frameWidth="663" frameHeight="658"/>
+	<SubTexture name="naruto slash0000" x="7609" y="2542" width="482" height="497" frameX="-5" frameY="0" frameWidth="934" frameHeight="497"/>
+	<SubTexture name="naruto slash0001" x="0" y="3199" width="503" height="401" frameX="-1" frameY="-96" frameWidth="934" frameHeight="497"/>
+	<SubTexture name="naruto slash0002" x="503" y="3199" width="763" height="487" frameX="0" frameY="-10" frameWidth="934" frameHeight="497"/>
+	<SubTexture name="naruto slash0003" x="1266" y="3199" width="934" height="487" frameX="0" frameY="-10" frameWidth="934" frameHeight="497"/>
+	<SubTexture name="naruto slash0004" x="2200" y="3199" width="604" height="487" frameX="0" frameY="-10" frameWidth="934" frameHeight="497"/>
+	<SubTexture name="naruto slash0005" x="2804" y="3199" width="619" height="487" frameX="0" frameY="-10" frameWidth="934" frameHeight="497"/>
+	<SubTexture name="naruto slash0006" x="3423" y="3199" width="625" height="487" frameX="0" frameY="-10" frameWidth="934" frameHeight="497"/>
 </TextureAtlas>

@@ -1,89 +1,78 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				7,
+				-160
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "SarventeIdle",
-			"indices": []
+			"indices": [],
+			"name": "Naruto Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				50,
+				-382
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "SarventeUp",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "SarventeDown",
-			"indices": []
+			"indices": [],
+			"name": "Naruto Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-45,
+				70
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "SarventeRight",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Naruto Up"
+		},
+		{
+			"offsets": [
+				-16,
+				-287
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Naruto Right"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				61,
+				-2
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "SarventeLeft",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "SarventeHey",
+			"name": "Naruto Left",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "sacredmass/characters/sarvente_sheet",
 	"position": [
-		0,
-		0
+		-70,
+		-10
 	],
 	"healthicon": "sarvente",
 	"flip_x": false,
 	"healthbar_colors": [
-		241,
-		147,
-		198
-	],
-	"camera_position": [
+		0,
 		0,
 		0
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"camera_position": [
+		-20,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
 }
