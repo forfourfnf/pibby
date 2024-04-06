@@ -5299,6 +5299,16 @@
 		"gfVersion": "nogf",
 		"events": [
 			[
+				59412.698412698395,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad"
+					]
+				]
+			],
+			[
 				87857.1428571429,
 				[
 					[
@@ -5775,6 +5785,16 @@
 						"Blammed Lights",
 						"0",
 						""
+					]
+				]
+			],
+			[
+				159190.47619047633,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pico"
 					]
 				]
 			],

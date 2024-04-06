@@ -3,17 +3,12 @@
 		"player1": "altsadmouse",
 		"events": [
 			[
-				59301.5873015873,
+				59412.698412698395,
 				[
 					[
 						"Change Character",
-						"opponent",
+						"dad",
 						"dad"
-					],
-					[
-						"",
-						"",
-						""
 					]
 				]
 			],
@@ -33,21 +28,6 @@
 					[
 						"Blammed Lights",
 						"0",
-						""
-					]
-				]
-			],
-			[
-				101079.365079365,
-				[
-					[
-						"Change Character",
-						"opponent",
-						"spooky"
-					],
-					[
-						"",
-						"",
 						""
 					]
 				]
@@ -493,21 +473,6 @@
 				]
 			],
 			[
-				116190.476190476,
-				[
-					[
-						"Change Character",
-						"opponent",
-						"dad"
-					],
-					[
-						"",
-						"",
-						""
-					]
-				]
-			],
-			[
 				144746.031746032,
 				[
 					[
@@ -528,17 +493,12 @@
 				]
 			],
 			[
-				158968.253968254,
+				159190.47619047633,
 				[
 					[
 						"Change Character",
-						"opponent",
+						"dad",
 						"pico"
-					],
-					[
-						"Play Animation",
-						"",
-						""
 					]
 				]
 			],
@@ -869,11 +829,6 @@
 						"Play Animation",
 						"shoot",
 						"BF"
-					],
-					[
-						"Play Animation",
-						"shoot",
-						"BF"
 					]
 				]
 			],
@@ -884,16 +839,11 @@
 						"Play Animation",
 						"shoot",
 						"BF"
-					],
-					[
-						"",
-						"",
-						""
 					]
 				]
 			]
 		],
-		"gfVersion": "pissy",
+		"gfVersion": "nogf",
 		"notes": [
 			{
 				"sectionNotes": [],
