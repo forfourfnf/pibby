@@ -57,12 +57,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/NEO/DADDY_DEAREST",
+	"image": "characters/NEO/spooky_kids_assets",
 	"position": [
 		-10,
 		20
 	],
-	"healthicon": "bf-neo",
+	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
 		235,
