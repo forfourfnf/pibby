@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf-car",
-		"gfVersion": "gf-car",
+		"gfVersion": "nogf",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -1111,7 +1111,7 @@
 						22657.8947368421,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -1442,7 +1442,7 @@
 						28657.8947368421,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -1489,13 +1489,13 @@
 						29684.2105263158,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						30000,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -1583,7 +1583,7 @@
 						32763.1578947369,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -2015,7 +2015,7 @@
 						40342.1052631579,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -2353,25 +2353,25 @@
 						41684.2105263158,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						42000,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						42315.7894736842,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						42631.5789473684,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -2418,31 +2418,31 @@
 						42947.3684210526,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						43263.1578947368,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						43421.0526315789,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						43578.947368421,
 						4,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						43894.7368421053,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -2519,13 +2519,13 @@
 						44842.1052631579,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						45157.8947368421,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -2693,31 +2693,31 @@
 						46736.8421052631,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						46894.7368421053,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						47210.5263157895,
 						4,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						47368.4210526316,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						47684.2105263158,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -2774,25 +2774,25 @@
 						48000,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						48157.8947368421,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						48315.7894736842,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						48947.3684210526,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -2937,13 +2937,13 @@
 						53684.2105263158,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						54000,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -2990,7 +2990,7 @@
 						55263.1578947368,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -3114,7 +3114,7 @@
 						58105.2631578947,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -3198,13 +3198,13 @@
 						62526.3157894736,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						62842.1052631579,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -3987,7 +3987,7 @@
 						83684.2105263157,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -4004,7 +4004,7 @@
 						85736.8421052631,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -4072,7 +4072,7 @@
 						87473.6842105262,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -4150,7 +4150,7 @@
 						91578.947368421,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -4316,7 +4316,7 @@
 						98526.3157894736,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -4338,7 +4338,7 @@
 						99789.4736842104,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -4381,7 +4381,7 @@
 						102947.368421053,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -5076,13 +5076,13 @@
 						114315.789473684,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						114631.578947368,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -5114,7 +5114,7 @@
 						115973.684210526,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -5151,7 +5151,7 @@
 						116368.421052631,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -5183,7 +5183,7 @@
 						118421.052631579,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -5561,19 +5561,19 @@
 						126947.368421052,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						126789.47368421,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						127263.157894737,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -5696,13 +5696,13 @@
 						129157.894736842,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						129789.47368421,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -5784,7 +5784,7 @@
 						131131.578947368,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -5896,7 +5896,7 @@
 						132315.789473684,
 						4,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -6706,7 +6706,7 @@
 						140842.105263158,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"altAnim": false,
@@ -6823,13 +6823,13 @@
 						141789.47368421,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						141947.368421053,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"altAnim": false,
@@ -7037,13 +7037,13 @@
 						144315.789473684,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						144710.526315789,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"altAnim": false,
@@ -7403,7 +7403,7 @@
 						149052.631578947,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"altAnim": false,
@@ -8115,7 +8115,7 @@
 						170210.52631579,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"altAnim": false,
@@ -8157,13 +8157,13 @@
 						172421.052631579,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						172736.842105263,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"altAnim": false,
@@ -8262,25 +8262,25 @@
 						177157.894736842,
 						0,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						177315.789473685,
 						3,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						177473.684210527,
 						1,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						177789.473684211,
 						2,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"altAnim": false,
@@ -9249,43 +9249,43 @@
 						197052.631578948,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						197289.473684211,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						197447.368421053,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						197605.263157895,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						197763.157894737,
 						4,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						198000,
 						4,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						198157.894736843,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -9347,55 +9347,55 @@
 						198315.789473685,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						198473.684210527,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						198631.578947369,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						198710.52631579,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						198868.421052632,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						199026.315789474,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						199184.210526316,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						199342.105263158,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						199421.052631579,
 						4,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -9472,31 +9472,31 @@
 						199578.947368422,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						200131.578947369,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						200289.473684211,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						200605.263157895,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						200763.157894737,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -9558,43 +9558,43 @@
 						200842.105263158,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						201000.000000001,
 						4,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						201157.894736843,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						201315.789473685,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						201473.684210527,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						201631.578947369,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						201789.473684211,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						202078,
@@ -10299,19 +10299,19 @@
 						212605.263157895,
 						5,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						213315.789473685,
 						6,
 						0,
-						"Sword Note"
+						"Sword"
 					],
 					[
 						213236.842105264,
 						7,
 						0,
-						"Sword Note"
+						"Sword"
 					]
 				],
 				"typeOfSection": 0,
@@ -12852,7 +12852,7 @@
 					[
 						"Change Character",
 						"dad",
-						"mom"
+						"angrybob"
 					]
 				]
 			],
@@ -12862,7 +12862,7 @@
 					[
 						"Change Character",
 						"dad",
-						"mom-car"
+						"bob"
 					]
 				]
 			],
@@ -12877,14 +12877,14 @@
 				]
 			]
 		],
-		"player2": "mom-car",
-		"player3": null,
+		"player2": "bob",
+		"player3": "nogf",
 		"splashSkin": "noteSplashes",
 		"song": "Fresh",
 		"needsVoices": true,
 		"arrowSkin": "",
 		"validScore": true,
-		"stage": "stage",
+		"stage": "brotherlybond",
 		"bpm": 190,
 		"speed": 3
 	}

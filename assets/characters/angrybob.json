@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "bob_idle",
-			"indices": []
+			"indices": [],
+			"name": "orange idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				441,
+				390
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "bob_LEFT",
-			"indices": []
+			"indices": [],
+			"name": "orange left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				360,
+				440
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "bob_RIGHT",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "bob_DOWN",
-			"indices": []
+			"indices": [],
+			"name": "orange down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				365,
+				671
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "bob_UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "orange up"
+		},
+		{
+			"offsets": [
+				340,
+				367
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "orange right"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/bobweek/angrybob_asset",
 	"position": [
-		0,
-		250
+		-130,
+		50
 	],
-	"healthicon": "angrybob",
-	"flip_x": true,
+	"healthicon": "bob",
+	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		175,
-		215
-	],
-	"camera_position": [
-		0,
+		255,
+		144,
 		0
 	],
-	"sing_duration": 4,
+	"camera_position": [
+		-350,
+		-290
+	],
+	"sing_duration": 6.1,
 	"scale": 1
 }
