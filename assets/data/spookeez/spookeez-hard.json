@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bfGore",
+		"player1": "smbf-scared",
 		"events": [
 			[
 				0,
@@ -8529,10 +8529,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "tankmanlol",
-		"player3": null,
-		"song": "HGU",
-		"stage": "warzone",
+		"player2": "hellbob",
+		"player3": "smgf-scared",
+		"song": "South",
+		"stage": "philly",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 150,
